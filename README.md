@@ -10,4 +10,4 @@ p4irin/p4irin is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-For the past decade I have been working for a hosted VoIp shop as an engineer.
+Telecoms engineer with a development background and 20+ years experience.
