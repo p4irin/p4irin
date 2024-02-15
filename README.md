@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 Telecoms engineer with a development background.
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,docker,py,flask,selenium,js,html,css,git,github,githubactions,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,bash,vim,nginx,sqlite,postgres,mysql,docker,py,flask,selenium,js,html,css,md,git,github,githubactions,vscode&perline=6)](https://skillicons.dev)
