@@ -18,3 +18,4 @@ Telecoms engineer with a development background.
 
 [![Build Status](https://dev.azure.com/p4irin/c4t/_apis/build/status%2Fp4irin.c4t?branchName=master)](https://dev.azure.com/p4irin/c4t/_build/latest?definitionId=5&branchName=master) [c4t](https://github.com/p4irin/c4t)
 [![pages-build-deployment](https://github.com/p4irin/resume/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/p4irin/resume/actions/workflows/pages/pages-build-deployment) [Resume](https://github.com/p4irin/resume)
+[![Test action-send-telegram](https://github.com/p4irin/action-send-telegram/actions/workflows/test_action.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/p4irin/action-send-telegram/actions/workflows/test_action.yml) [action-send-telegram](https://github.com/p4irin/action-send-telegram)
