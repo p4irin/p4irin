@@ -16,7 +16,7 @@ Telecoms engineer with a development background.
 
 [![Build SIPp on Ubuntu image and push the image to DockerHub](https://github.com/p4irin/sipp/actions/workflows/build-push.yml/badge.svg)](https://github.com/p4irin/sipp/actions/workflows/build-push.yml)
 
-[![Build Status](https://dev.azure.com/p4irin/c4t/_apis/build/status%2Fp4irin.c4t?branchName=master)](https://dev.azure.com/p4irin/c4t/_build/latest?definitionId=5&branchName=master) [c4t](https://github.com/p4irin/c4t)
+[![Build Status](https://dev.azure.com/p4irin/c4t/_apis/build/status%2Fp4irin.c4t?branchName=master&label=c4t)](https://dev.azure.com/p4irin/c4t/_build/latest?definitionId=5&branchName=master)
 [![pages-build-deployment](https://github.com/p4irin/resume/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/p4irin/resume/actions/workflows/pages/pages-build-deployment) [Resume](https://github.com/p4irin/resume)
-[![Test action-send-telegram](https://github.com/p4irin/action-send-telegram/actions/workflows/test_action.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/p4irin/action-send-telegram/actions/workflows/test_action.yml) [action-send-telegram](https://github.com/p4irin/action-send-telegram)
-[![Build Status](https://dev.azure.com/p4irin/playground/_apis/build/status%2Ftest_raspberry_pi_hosted_agent?branchName=main)](https://dev.azure.com/p4irin/playground/_build/latest?definitionId=12&branchName=main) [Raspberry Pi hosted Azure Pipelines agents](https://dev.azure.com/p4irin/playground/_git/test_raspberry_pi_hosted_agent?path=/README.md)
+[![Test action-send-telegram](https://github.com/p4irin/action-send-telegram/actions/workflows/test_action.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/p4irin/action-send-telegram/actions/workflows/test_action.yml)
+[![Build Status](https://dev.azure.com/p4irin/playground/_apis/build/status%2Ftest_raspberry_pi_hosted_agent?branchName=main&label=Test%20Raspberry%20Pi%20hosted%20agent)](https://dev.azure.com/p4irin/playground/_build/latest?definitionId=12&branchName=main)
