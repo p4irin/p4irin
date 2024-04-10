@@ -15,7 +15,7 @@ Telecoms engineer with a development background.
 [![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,bash,vim,nginx,sqlite,postgres,mysql,docker,py,flask,selenium,js,html,css,md,git,github,githubactions,vscode&perline=6)](https://skillicons.dev)
 
 [![Build SIPp on Ubuntu image and push the image to DockerHub](https://github.com/p4irin/sipp/actions/workflows/build-push.yml/badge.svg)](https://github.com/p4irin/sipp/actions/workflows/build-push.yml)
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/p4irin/resume/pages%2Fpages-build-deployment?label=Resume)](https://github.com/p4irin/resume/actions/workflows/pages/pages-build-deployment)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/p4irin/resume/pages%2Fpages-build-deployment?logo=ruby&label=Resume)](https://github.com/p4irin/resume/actions/workflows/pages/pages-build-deployment)
 [![Test action-send-telegram](https://github.com/p4irin/action-send-telegram/actions/workflows/test_action.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/p4irin/action-send-telegram/actions/workflows/test_action.yml)
 [![azp agent python build tools](https://github.com/p4irin/azp-agent-python-build-tools/actions/workflows/main.yml/badge.svg)](https://github.com/p4irin/azp-agent-python-build-tools/actions/workflows/main.yml)
 
