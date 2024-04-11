@@ -16,11 +16,12 @@ Telecoms engineer with a development background.
 
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/p4irin/sipp/build-push.yml?branch=master&logo=docker&label=SIPp)
 ](https://github.com/p4irin/sipp/actions/workflows/build-push.yml)
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/p4irin/resume/pages%2Fpages-build-deployment?logo=ruby&label=Resume)](https://github.com/p4irin/resume/actions/workflows/pages/pages-build-deployment)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/p4irin/resume/pages%2Fpages-build-deployment?logo=jekyll&label=Resume)](https://github.com/p4irin/resume/actions/workflows/pages/pages-build-deployment)
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/p4irin/action-send-telegram/test_action.yml?branch=main&logo=python&logoColor=yellow&label=action-send-telegram&labelColor=blue)
 ](https://github.com/p4irin/action-send-telegram/actions/workflows/test_action.yml)
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/p4irin/azp-agent-python-build-tools/main.yml?branch=main&logo=ubuntu&label=azp-agent-python-build-tools)
 ](https://github.com/p4irin/azp-agent-python-build-tools/actions/workflows/main.yml)
 
-[![Build Status](https://dev.azure.com/p4irin/playground/_apis/build/status%2Ftest_raspberry_pi_hosted_agent?branchName=main&label=Raspberry%20Pi%20hosted%20agent)](https://dev.azure.com/p4irin/playground/_build/latest?definitionId=12&branchName=main)
-[![Build Status](https://dev.azure.com/p4irin/c4t/_apis/build/status%2Fp4irin.c4t?branchName=master&label=c4t)](https://dev.azure.com/p4irin/c4t/_build/latest?definitionId=5&branchName=master)
+![Azure DevOps builds](https://img.shields.io/azure-devops/build/p4irin/7f4001bf-a79d-4d7d-8047-220dd15c8e04/12/main?logo=raspberrypi&logoColor=red&label=Raspberry%20Pi%20hosted%20agents&labelColor=white)
+![Azure DevOps builds (branch)](https://img.shields.io/azure-devops/build/p4irin/cf96b8fb-827d-4bf6-bf8c-fa0e23a3dd2d/5/master?logo=google&label=c4t)
+
