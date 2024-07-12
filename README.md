@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/p4irin/ubitlogger/ci.yml?logo=microbit&label=ubitlogger%20CI)](https://github.com/p4irin/ubitlogger/actions/workflows/ci.yml)
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/p4irin/ubitlogger/python-publish.yml?logo=microbit&label=ubitlogger%20publish)](https://github.com/p4irin/ubitlogger/actions/workflows/python-publish.yml)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/p4irin/c4t/python-publish.yml?logo=google&label=c4t%20publish)
+[![motion2telegram CI](https://github.com/p4irin/motion2telegram/actions/workflows/ci.yml/badge.svg)](https://github.com/p4irin/motion2telegram/actions/workflows/ci.yml)
 
 [![Azure DevOps builds](https://img.shields.io/azure-devops/build/p4irin/7f4001bf-a79d-4d7d-8047-220dd15c8e04/12/main?logo=raspberrypi&logoColor=red&label=Raspberry%20Pi%20hosted%20agents&labelColor=white)](https://dev.azure.com/p4irin/playground/_build/latest?definitionId=12&branchName=main)
 [![Azure DevOps builds (branch)](https://img.shields.io/azure-devops/build/p4irin/cf96b8fb-827d-4bf6-bf8c-fa0e23a3dd2d/5/master?logo=google&label=c4t)](https://dev.azure.com/p4irin/c4t/_build/latest?definitionId=5&branchName=master)
